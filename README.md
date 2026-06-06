@@ -27,7 +27,7 @@ This portfolio was created to present my work, technical skills, and professiona
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone gh repo clone Vikashsingh845274/Portfolio_1
 ```
 
 2. Navigate to the project directory:
