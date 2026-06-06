@@ -51,18 +51,13 @@ portfolio/
 
 ## Live Demo
 
-Add your deployed website link here:
-
-```text
-https://your-portfolio-link.com
-```
+https://github.com/Vikashsingh845274
 
 ## Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: Your LinkedIn Profile
-* GitHub: Your GitHub Username
-
+* Email: vikash.singh84258@gmail.com
+* LinkedIn: www.linkedin.com/in/vikash-singh-aa5120229
+* GitHub: Vikashsingh845274
 ## License
 
 This project is open source and available under the MIT License.
